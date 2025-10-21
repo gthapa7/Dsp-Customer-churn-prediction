@@ -1,0 +1,204 @@
+Started process (PID=34197) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Created Permission View: can read on DAG:prediction_dag
+Created Permission View: can edit on DAG:prediction_dag
+Created Permission View: can delete on DAG:prediction_dag
+Sync 1 DAGs
+Creating ORM DAG for prediction_dag
+Setting next_dagrun for prediction_dag to 2025-10-10 23:00:00+00:00, run_after=2025-10-10 23:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.169 seconds
+Started process (PID=35154) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-10 23:00:00+00:00, run_after=2025-10-10 23:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.134 seconds
+Started process (PID=35297) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-10 23:00:00+00:00, run_after=2025-10-10 23:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.146 seconds
+Started process (PID=35473) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-10 23:00:00+00:00, run_after=2025-10-10 23:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.127 seconds
+Started process (PID=35830) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.118 seconds
+Started process (PID=37833) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Created Permission View: can edit on DAG:prediction_dag
+Created Permission View: can read on DAG:prediction_dag
+Created Permission View: can delete on DAG:prediction_dag
+Sync 1 DAGs
+Creating ORM DAG for prediction_dag
+Setting next_dagrun for prediction_dag to 2025-10-10 23:00:00+00:00, run_after=2025-10-10 23:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.163 seconds
+Started process (PID=37892) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-10 23:00:00+00:00, run_after=2025-10-10 23:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.117 seconds
+Started process (PID=37924) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.123 seconds
+Started process (PID=37932) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.129 seconds
+Started process (PID=37937) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.125 seconds
+Started process (PID=37943) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.131 seconds
+Started process (PID=37961) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.132 seconds
+Started process (PID=37964) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Failed to import: /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Traceback (most recent call last):
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py", line 13, in <module>
+    os.makedirs(GOOD_FOLDER, exist_ok=True)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.18_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data'
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.094 seconds
+Started process (PID=38141) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Failed to import: /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Traceback (most recent call last):
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py", line 13, in <module>
+    os.makedirs(GOOD_FOLDER, exist_ok=True)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.18_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data'
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.051 seconds
+Started process (PID=38196) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Failed to import: /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Traceback (most recent call last):
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py", line 13, in <module>
+    os.makedirs(GOOD_FOLDER, exist_ok=True)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.18_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data'
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.050 seconds
+Started process (PID=41795) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Created Permission View: can delete on DAG:prediction_dag
+Created Permission View: can read on DAG:prediction_dag
+Created Permission View: can edit on DAG:prediction_dag
+Sync 1 DAGs
+Creating ORM DAG for prediction_dag
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.167 seconds
+Started process (PID=41997) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.122 seconds
+Started process (PID=42362) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.145 seconds
+Started process (PID=43545) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.112 seconds
+Started process (PID=43606) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.165 seconds
+Started process (PID=43626) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/operators/python.py:299 RemovedInAirflow3Warning: provide_context is deprecated as of 2.0 and is no longer required
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.124 seconds

@@ -1,0 +1,18 @@
+::group::Pre task execution logs
+Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingestion_dag.read_data manual__2025-10-11T13:48:00.796747+00:00 [queued]>
+Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingestion_dag.read_data manual__2025-10-11T13:48:00.796747+00:00 [queued]>
+Starting attempt 1 of 1
+Executing <Task(PythonOperator): read_data> on 2025-10-11 13:48:00.796747+00:00
+Started process 3977 to run task
+Running: ['airflow', 'tasks', 'run', 'ingestion_dag', 'read_data', 'manual__2025-10-11T13:48:00.796747+00:00', '--job-id', '2', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/var/folders/c3/wt5f_c9959z1k4kws7gcpgj00000gn/T/tmpmb4uxdhf']
+Job 2: Subtask read_data
+Running <TaskInstance: ingestion_dag.read_data manual__2025-10-11T13:48:00.796747+00:00 [running]> on host ganeshs-macbook-air.local
+Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingestion_dag' AIRFLOW_CTX_TASK_ID='read_data' AIRFLOW_CTX_EXECUTION_DATE='2025-10-11T13:48:00.796747+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-11T13:48:00.796747+00:00'
+::endgroup::
+📂 Selected 5 files to move: ['chunk_187.csv', 'chunk_446.csv', 'chunk_29.csv', 'chunk_770.csv', 'chunk_4.csv']
+Done. Returned value was: ['/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/raw-data/chunk_187.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/raw-data/chunk_446.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/raw-data/chunk_29.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/raw-data/chunk_770.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/raw-data/chunk_4.csv']
+::group::Post task execution logs
+Marking task as SUCCESS. dag_id=ingestion_dag, task_id=read_data, execution_date=20251011T134800, start_date=20251011T134801, end_date=20251011T134802
+Task exited with return code 0
+1 downstream tasks scheduled from follow-on schedule check
+::endgroup::

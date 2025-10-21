@@ -1,0 +1,14 @@
+Started process (PID=31505) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+DAG(s) 'tutorial_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+Sync 1 DAGs
+Setting next_dagrun for tutorial_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.096 seconds
+Started process (PID=33361) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+DAG(s) 'tutorial_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+Sync 1 DAGs
+Setting next_dagrun for tutorial_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.146 seconds

@@ -1,0 +1,18 @@
+Started process (PID=31426) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Could not import pandas. Holidays will not be considered.
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.041 seconds
+Started process (PID=33296) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Could not import pandas. Holidays will not be considered.
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.042 seconds
+Started process (PID=34202) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Could not import pandas. Holidays will not be considered.
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.041 seconds

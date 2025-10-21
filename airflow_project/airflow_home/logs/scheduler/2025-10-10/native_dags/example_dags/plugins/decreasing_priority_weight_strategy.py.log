@@ -1,0 +1,15 @@
+Started process (PID=31496) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py took 0.040 seconds
+Started process (PID=33346) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py took 0.042 seconds
+Started process (PID=34209) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py took 0.042 seconds

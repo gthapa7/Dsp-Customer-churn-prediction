@@ -1,0 +1,195 @@
+Started process (PID=34198) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Created Permission View: can edit on DAG:data_ingestion_dag
+Created Permission View: can read on DAG:data_ingestion_dag
+Created Permission View: can delete on DAG:data_ingestion_dag
+Sync 1 DAGs
+Creating ORM DAG for data_ingestion_dag
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.152 seconds
+Started process (PID=35156) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.112 seconds
+Started process (PID=35301) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.099 seconds
+Started process (PID=35479) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.099 seconds
+Started process (PID=35832) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.108 seconds
+Started process (PID=37836) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Created Permission View: can read on DAG:data_ingestion_dag
+Created Permission View: can delete on DAG:data_ingestion_dag
+Created Permission View: can edit on DAG:data_ingestion_dag
+Sync 1 DAGs
+Creating ORM DAG for data_ingestion_dag
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.139 seconds
+Started process (PID=37896) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.096 seconds
+Started process (PID=37925) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.097 seconds
+Started process (PID=37933) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.097 seconds
+Started process (PID=37938) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.100 seconds
+Started process (PID=37944) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'data_ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for data_ingestion_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.110 seconds
+Started process (PID=37952) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Failed to import: /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Traceback (most recent call last):
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py", line 14, in <module>
+    os.makedirs(GOOD_FOLDER, exist_ok=True)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.18_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data'
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.058 seconds
+Started process (PID=38040) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Failed to import: /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Traceback (most recent call last):
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py", line 14, in <module>
+    os.makedirs(GOOD_FOLDER, exist_ok=True)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.18_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data'
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.047 seconds
+Started process (PID=38142) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Failed to import: /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Traceback (most recent call last):
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py", line 14, in <module>
+    os.makedirs(GOOD_FOLDER, exist_ok=True)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.18_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data'
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.055 seconds
+Started process (PID=38197) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Failed to import: /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Traceback (most recent call last):
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py", line 14, in <module>
+    os.makedirs(GOOD_FOLDER, exist_ok=True)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.18_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data'
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.047 seconds
+Started process (PID=41796) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Created Permission View: can delete on DAG:ingestion_dag
+Created Permission View: can read on DAG:ingestion_dag
+Created Permission View: can edit on DAG:ingestion_dag
+Sync 1 DAGs
+Creating ORM DAG for ingestion_dag
+Setting next_dagrun for ingestion_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.149 seconds
+Started process (PID=42105) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for ingestion_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.110 seconds
+Started process (PID=42366) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for ingestion_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.107 seconds
+Started process (PID=43546) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for ingestion_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.090 seconds
+Started process (PID=43607) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for ingestion_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.137 seconds
+Started process (PID=43627) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+DAG(s) 'ingestion_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py
+Sync 1 DAGs
+Setting next_dagrun for ingestion_dag to 2025-10-11 00:00:00+00:00, run_after=2025-10-11 00:00:00+00:00
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/ingest_data_dag.py took 0.098 seconds

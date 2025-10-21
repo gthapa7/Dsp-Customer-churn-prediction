@@ -1,0 +1,15 @@
+Started process (PID=31429) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.041 seconds
+Started process (PID=33337) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.042 seconds
+Started process (PID=34208) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+No viable dags retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.044 seconds

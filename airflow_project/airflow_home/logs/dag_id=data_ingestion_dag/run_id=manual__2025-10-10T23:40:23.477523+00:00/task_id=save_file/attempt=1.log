@@ -1,0 +1,18 @@
+::group::Pre task execution logs
+Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_ingestion_dag.save_file manual__2025-10-10T23:40:23.477523+00:00 [queued]>
+Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_ingestion_dag.save_file manual__2025-10-10T23:40:23.477523+00:00 [queued]>
+Starting attempt 1 of 1
+Executing <Task(PythonOperator): save_file> on 2025-10-10 23:40:23.477523+00:00
+Started process 37895 to run task
+Running: ['airflow', 'tasks', 'run', 'data_ingestion_dag', 'save_file', 'manual__2025-10-10T23:40:23.477523+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/var/folders/c3/wt5f_c9959z1k4kws7gcpgj00000gn/T/tmpr2jlgg_u']
+Job 3: Subtask save_file
+Running <TaskInstance: data_ingestion_dag.save_file manual__2025-10-10T23:40:23.477523+00:00 [running]> on host ganeshs-macbook-air.local
+Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_ingestion_dag' AIRFLOW_CTX_TASK_ID='save_file' AIRFLOW_CTX_EXECUTION_DATE='2025-10-10T23:40:23.477523+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-10T23:40:23.477523+00:00'
+::endgroup::
+Moved /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/raw-data/chunk_626.csv to /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data
+Done. Returned value was: None
+::group::Post task execution logs
+Marking task as SUCCESS. dag_id=data_ingestion_dag, task_id=save_file, execution_date=20251010T234023, start_date=20251010T234027, end_date=20251010T234027
+Task exited with return code 0
+0 downstream tasks scheduled from follow-on schedule check
+::endgroup::

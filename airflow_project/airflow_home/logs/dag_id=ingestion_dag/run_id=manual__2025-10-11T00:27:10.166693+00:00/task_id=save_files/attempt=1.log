@@ -1,0 +1,23 @@
+::group::Pre task execution logs
+Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingestion_dag.save_files manual__2025-10-11T00:27:10.166693+00:00 [queued]>
+Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingestion_dag.save_files manual__2025-10-11T00:27:10.166693+00:00 [queued]>
+Starting attempt 1 of 1
+Executing <Task(PythonOperator): save_files> on 2025-10-11 00:27:10.166693+00:00
+Started process 46885 to run task
+Running: ['airflow', 'tasks', 'run', 'ingestion_dag', 'save_files', 'manual__2025-10-11T00:27:10.166693+00:00', '--job-id', '27', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/var/folders/c3/wt5f_c9959z1k4kws7gcpgj00000gn/T/tmpfawr10fs']
+Job 27: Subtask save_files
+Running <TaskInstance: ingestion_dag.save_files manual__2025-10-11T00:27:10.166693+00:00 [running]> on host ganeshs-macbook-air.local
+Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingestion_dag' AIRFLOW_CTX_TASK_ID='save_files' AIRFLOW_CTX_EXECUTION_DATE='2025-10-11T00:27:10.166693+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-11T00:27:10.166693+00:00'
+::endgroup::
+✅ Moved: chunk_138.csv
+✅ Moved: chunk_54.csv
+✅ Moved: chunk_311.csv
+✅ Moved: chunk_229.csv
+✅ Moved: chunk_248.csv
+✨ Successfully moved 5 file(s): ['chunk_138.csv', 'chunk_54.csv', 'chunk_311.csv', 'chunk_229.csv', 'chunk_248.csv']
+Done. Returned value was: None
+::group::Post task execution logs
+Marking task as SUCCESS. dag_id=ingestion_dag, task_id=save_files, execution_date=20251011T002710, start_date=20251011T003923, end_date=20251011T003924
+Task exited with return code 0
+0 downstream tasks scheduled from follow-on schedule check
+::endgroup::

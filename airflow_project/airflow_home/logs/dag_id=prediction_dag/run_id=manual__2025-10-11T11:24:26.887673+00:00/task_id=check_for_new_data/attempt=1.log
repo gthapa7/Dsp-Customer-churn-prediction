@@ -1,0 +1,21 @@
+::group::Pre task execution logs
+Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prediction_dag.check_for_new_data manual__2025-10-11T11:24:26.887673+00:00 [queued]>
+Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prediction_dag.check_for_new_data manual__2025-10-11T11:24:26.887673+00:00 [queued]>
+Starting attempt 1 of 1
+Executing <Task(ShortCircuitOperator): check_for_new_data> on 2025-10-11 11:24:26.887673+00:00
+Started process 16890 to run task
+Running: ['airflow', 'tasks', 'run', 'prediction_dag', 'check_for_new_data', 'manual__2025-10-11T11:24:26.887673+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/var/folders/c3/wt5f_c9959z1k4kws7gcpgj00000gn/T/tmp9xssrud6']
+Job 4: Subtask check_for_new_data
+Running <TaskInstance: prediction_dag.check_for_new_data manual__2025-10-11T11:24:26.887673+00:00 [running]> on host ganeshs-macbook-air.local
+Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='prediction_dag' AIRFLOW_CTX_TASK_ID='check_for_new_data' AIRFLOW_CTX_EXECUTION_DATE='2025-10-11T11:24:26.887673+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-11T11:24:26.887673+00:00'
+::endgroup::
+ShortCircuitOperator.execute cannot be called outside TaskInstance!
+Found 5 new file(s): ['/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_881.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_476.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_113.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_184.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_350.csv']
+Done. Returned value was: True
+Condition result is True
+Proceeding with downstream tasks...
+::group::Post task execution logs
+Marking task as SUCCESS. dag_id=prediction_dag, task_id=check_for_new_data, execution_date=20251011T112426, start_date=20251011T112429, end_date=20251011T112429
+Task exited with return code 0
+1 downstream tasks scheduled from follow-on schedule check
+::endgroup::

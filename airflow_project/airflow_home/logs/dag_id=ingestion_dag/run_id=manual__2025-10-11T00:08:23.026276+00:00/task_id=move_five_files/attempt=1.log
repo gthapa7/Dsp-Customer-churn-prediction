@@ -1,0 +1,22 @@
+::group::Pre task execution logs
+Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingestion_dag.move_five_files manual__2025-10-11T00:08:23.026276+00:00 [queued]>
+Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingestion_dag.move_five_files manual__2025-10-11T00:08:23.026276+00:00 [queued]>
+Starting attempt 1 of 1
+Executing <Task(PythonOperator): move_five_files> on 2025-10-11 00:08:23.026276+00:00
+Started process 44285 to run task
+Running: ['airflow', 'tasks', 'run', 'ingestion_dag', 'move_five_files', 'manual__2025-10-11T00:08:23.026276+00:00', '--job-id', '5', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/var/folders/c3/wt5f_c9959z1k4kws7gcpgj00000gn/T/tmpncnmsx_s']
+Job 5: Subtask move_five_files
+Running <TaskInstance: ingestion_dag.move_five_files manual__2025-10-11T00:08:23.026276+00:00 [running]> on host ganeshs-macbook-air.local
+Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingestion_dag' AIRFLOW_CTX_TASK_ID='move_five_files' AIRFLOW_CTX_EXECUTION_DATE='2025-10-11T00:08:23.026276+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-11T00:08:23.026276+00:00'
+::endgroup::
+Moved chunk_290.csv -> good-data
+Moved chunk_591.csv -> good-data
+Moved chunk_499.csv -> good-data
+Moved chunk_959.csv -> good-data
+Moved chunk_38.csv -> good-data
+Done. Returned value was: ['/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_290.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_591.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_499.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_959.csv', '/Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_38.csv']
+::group::Post task execution logs
+Marking task as SUCCESS. dag_id=ingestion_dag, task_id=move_five_files, execution_date=20251011T000823, start_date=20251011T000825, end_date=20251011T000825
+Task exited with return code 0
+0 downstream tasks scheduled from follow-on schedule check
+::endgroup::

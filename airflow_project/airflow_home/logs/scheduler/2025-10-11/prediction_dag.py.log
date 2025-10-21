@@ -1,0 +1,295 @@
+Started process (PID=44222) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.138 seconds
+Started process (PID=44293) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.092 seconds
+Started process (PID=44311) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.098 seconds
+Started process (PID=44324) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.106 seconds
+Started process (PID=44353) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.106 seconds
+Started process (PID=44368) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.108 seconds
+Started process (PID=44374) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.115 seconds
+Started process (PID=44390) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.100 seconds
+Started process (PID=44397) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.155 seconds
+Started process (PID=44661) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.087 seconds
+Started process (PID=44726) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.094 seconds
+Started process (PID=44741) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.103 seconds
+Started process (PID=44754) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.105 seconds
+Started process (PID=44776) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.099 seconds
+Started process (PID=44781) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.104 seconds
+Started process (PID=44825) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.098 seconds
+Started process (PID=45645) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.125 seconds
+Started process (PID=45826) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.131 seconds
+Started process (PID=46645) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.193 seconds
+Started process (PID=46990) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.238 seconds
+Started process (PID=47115) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.338 seconds
+Started process (PID=5685) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.092 seconds
+Started process (PID=4339) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.102 seconds
+Started process (PID=13669) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.142 seconds
+Started process (PID=13942) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.156 seconds
+Started process (PID=14187) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.156 seconds
+Started process (PID=16066) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.145 seconds
+Started process (PID=16815) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Created Permission View: can read on DAG:prediction_dag
+Created Permission View: can edit on DAG:prediction_dag
+Created Permission View: can delete on DAG:prediction_dag
+Sync 1 DAGs
+Creating ORM DAG for prediction_dag
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.215 seconds
+Started process (PID=16831) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.224 seconds
+Started process (PID=16866) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.331 seconds
+Started process (PID=17043) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.220 seconds
+Started process (PID=17234) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.249 seconds
+Started process (PID=17400) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.233 seconds
+Started process (PID=2722) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Created Permission View: can read on DAG:prediction_dag
+Created Permission View: can edit on DAG:prediction_dag
+Created Permission View: can delete on DAG:prediction_dag
+Sync 1 DAGs
+Creating ORM DAG for prediction_dag
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.135 seconds
+Started process (PID=2742) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.099 seconds
+Started process (PID=3144) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Started process (PID=3950) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Created Permission View: can delete on DAG:prediction_dag
+Created Permission View: can read on DAG:prediction_dag
+Created Permission View: can edit on DAG:prediction_dag
+Sync 1 DAGs
+Creating ORM DAG for prediction_dag
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.141 seconds
+Started process (PID=3994) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.090 seconds
+Started process (PID=4140) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.096 seconds
+Started process (PID=4152) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.107 seconds
+Started process (PID=4180) to work on /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Processing file /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py for tasks to queue
+Filling up the DagBag from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+DAG(s) 'prediction_dag' retrieved from /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py
+Sync 1 DAGs
+Setting next_dagrun for prediction_dag to None, run_after=None
+Processing /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/airflow_home/dags/prediction_dag.py took 0.096 seconds

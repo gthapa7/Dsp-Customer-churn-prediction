@@ -1,0 +1,19 @@
+::group::Pre task execution logs
+Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prediction_dag.make_predictions manual__2025-10-11T00:15:15.213077+00:00 [queued]>
+Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prediction_dag.make_predictions manual__2025-10-11T00:15:15.213077+00:00 [queued]>
+Starting attempt 8 of 1
+Executing <Task(PythonOperator): make_predictions> on 2025-10-11 00:15:15.213077+00:00
+Started process 4341 to run task
+Running: ['airflow', 'tasks', 'run', 'prediction_dag', 'make_predictions', 'manual__2025-10-11T00:15:15.213077+00:00', '--job-id', '39', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/var/folders/c3/wt5f_c9959z1k4kws7gcpgj00000gn/T/tmp2lyk_n1s']
+Job 39: Subtask make_predictions
+Running <TaskInstance: prediction_dag.make_predictions manual__2025-10-11T00:15:15.213077+00:00 [running]> on host ganeshs-macbook-air.local
+Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='prediction_dag' AIRFLOW_CTX_TASK_ID='make_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-10-11T00:15:15.213077+00:00' AIRFLOW_CTX_TRY_NUMBER='8' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-11T00:15:15.213077+00:00'
+::endgroup::
+Making prediction for: /Users/ganeshbahadurthapa/Desktop/DSP-Project/airflow_project/good-data/chunk_171.csv
+::endgroup::
+Sending Signals.SIGTERM to group 4341. PIDs of all processes in the group: [4341]
+Sending the signal Signals.SIGTERM to group 4341
+::group::Pre task execution logs
+Dependencies not met for <TaskInstance: prediction_dag.make_predictions manual__2025-10-11T00:15:15.213077+00:00 [running]>, dependency 'Task Instance State' FAILED: Task is in the 'running' state.
+Dependencies not met for <TaskInstance: prediction_dag.make_predictions manual__2025-10-11T00:15:15.213077+00:00 [running]>, dependency 'Task Instance Not Running' FAILED: Task is in the running state
+Task is not able to be run
